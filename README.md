@@ -20,8 +20,6 @@ For a good deep learning there may require huge data set. Data Augmentation is a
 
 In my project I have Data Augmented the data with injecting some of the external changes in the data. Here are those
 
-Wave plot which augmented with respective sample audio
-
 Noise Injection : Injection the noise tin the dataset.
 Stretching : Stretching the audio file.
 Pitching: Increasing the pitch and decreasing the pitch in the audio.
